@@ -1,0 +1,28 @@
+{
+  "maxLevel":5,
+  "Level1":
+  {
+    "clockNum": 6,
+    "clockPosition":[5,8,10,12,13,15]
+  },
+  "Level2":
+  {
+    "clockNum": 5,
+    "clockPosition":[7,11,14,16,21]
+  },
+  "Level3":
+  {
+    "clockNum": 7,
+    "clockPosition":[3,4,6,8,12,14,20]
+  },
+  "Level4":
+  {
+    "clockNum": 8,
+    "clockPosition":[3,6,7,9,13,18,19,22]
+  },
+  "Level5":
+  {
+    "clockNum": 15,
+    "clockPosition":[3,4,6,7,9,10,12,13,15,16,18,19,20,22,23]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "maxLevel":10,
+  "Level1":
+  {
+    "clockNum": 4,
+    "clockPosition":[9,10,13,14]
+  },
+  "Level2":
+  {
+    "clockNum": 8,
+    "clockPosition":[4,7,9,10,13,14,16,19]
+  },
+  "Level3":
+  {
+    "clockNum": 6,
+    "clockPosition":[5,8,10,12,13,15]
+  },
+  "Level4":
+  {
+    "clockNum": 13,
+    "clockPosition":[3,4,7,9,10,12,13,15,18,19,20,22,23]
+  },
+  "Level5":
+  {
+    "clockNum": 8,
+    "clockPosition":[3,6,7,9,13,18,19,22]
+  },
+  "Level6":
+  {
+    "clockNum": 5,
+    "clockPosition":[7,11,14,16,21]
+  },
+  "Level7":
+  {
+    "clockNum": 7,
+    "clockPosition":[3,4,6,8,12,14,20]
+  },
+  "Level8":
+  {
+    "clockNum": 4,
+    "clockPosition":[0,3,20,23]
+  },
+  "Level9":
+  {
+    "clockNum": 12,
+    "clockPosition":[4,5,6,7,8,11,12,15,16,17,18,19]
+  },
+  "Level10":
+  {
+    "clockNum": 10,
+    "clockPosition":[0,3,13,14,16,19,20,21,22,23]
+  },
+  "Survival":
+  {
+    "clockNum": 8,
+    "clockPosition":[2,11,15,16,17,18,19,21]
+  }
+}

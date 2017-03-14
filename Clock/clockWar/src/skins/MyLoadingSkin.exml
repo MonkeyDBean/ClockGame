@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="MyLoadingSkin" width="640" height="960" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="myLoadingBg" source="MonkeyBean_Game" x="0" y="0"/>
+	<e:Image id="whiteDot1" source="whiteDot" x="365" y="553" width="31" height="32"/>
+	<e:Image id="whiteDot2" source="whiteDot" width="31" y="553" height="32" x="446"/>
+	<e:Image id="whiteDot3" source="whiteDot" width="31" y="553" height="32" x="525"/>
+</e:Skin>
